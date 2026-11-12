@@ -29,11 +29,7 @@ NFL play-by-play data is retrieved using the [`nflreadr`](https://nflreadr.nflve
 3. Install the required packages:
 
 ```r
-install.packages(c("shiny", "nflreadr"))
+install.packages(c("shiny", "nflreadr", "dplyr", "ggplot2", "tidyr"))
 ```
 
-4. Run the application:
-
-```r
-shiny::runApp()
-```
+4. Press the 'Run App' button
