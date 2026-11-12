@@ -6,17 +6,13 @@ An interactive NFL offensive analytics dashboard developed using R and Shiny. Th
 
 The dashboard allows users to select NFL teams and weeks, examine key offensive metrics, compare passing and rushing efficiency, and predict the likelihood of a successful offensive play.
 
-**This dashboard project is ongoing and data, metrics and analysis are being updated incrementally.**
+**This project is ongoing and data, metrics and analysis are being updated gradually.**
 
-## Features
-
-- **Offensive Performance:** Analyze passing and rushing efficiency using Expected Points Added (EPA).
-- **Red Zone Analysis:** Evaluate offensive performance inside the opponent's 20-yard line.
-- **Play Success Rate:** Examine the percentage of plays generating positive EPA.
-- **Situational Analysis:** Explore third-down efficiency, third-and-long situations, and fourth-down conversions.
-- **Player Performance:** Identify top-performing offensive players based on average EPA.
-- **Predictive Modeling:** Apply team-specific logistic regression models to estimate the probability of a successful offensive play.
-- **Interactive Visualizations:** Explore team performance through an interactive Shiny dashboard.
+## Contributors
+This project was developed collaboratively by a team of three:
+- **Andy Coombs** andy.coombs@unh.edu : Statistical modeling, statistical logic, and application development
+- **Panayiota Papantonakis** panayiota.papantonakis@unh.edu : Statistical modeling, statistical logic, and application development
+- **Sadie Rogers** sadie.rogers@unh.edu : NFL domain knowledge and football strategy insights
 
 ## Data Source
 
